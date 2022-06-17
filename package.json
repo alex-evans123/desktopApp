@@ -19,7 +19,7 @@
     "@testing-library/user-event": "^7.1.2",
     "dat-swarm-defaults": "^1.0.2",
     "discovery-swarm": "^6.0.1",
-    "electron": "^7.1.9",
+    "electron": "^15.5.5",
     "electron-squirrel-startup": "^1.0.0",
     "electron-winstaller": "^4.0.0",
     "eslint": "^6.8.0",
